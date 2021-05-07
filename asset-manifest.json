@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%7BReactfolio%7D/static/css/main.edbd5a26.chunk.css",
-    "main.js": "/%7BReactfolio%7D/static/js/main.2132f20c.chunk.js",
-    "main.js.map": "/%7BReactfolio%7D/static/js/main.2132f20c.chunk.js.map",
-    "runtime-main.js": "/%7BReactfolio%7D/static/js/runtime-main.4370781c.js",
-    "runtime-main.js.map": "/%7BReactfolio%7D/static/js/runtime-main.4370781c.js.map",
-    "static/css/2.150d169a.chunk.css": "/%7BReactfolio%7D/static/css/2.150d169a.chunk.css",
-    "static/js/2.9d110713.chunk.js": "/%7BReactfolio%7D/static/js/2.9d110713.chunk.js",
-    "static/js/2.9d110713.chunk.js.map": "/%7BReactfolio%7D/static/js/2.9d110713.chunk.js.map",
-    "static/js/3.2553f189.chunk.js": "/%7BReactfolio%7D/static/js/3.2553f189.chunk.js",
-    "static/js/3.2553f189.chunk.js.map": "/%7BReactfolio%7D/static/js/3.2553f189.chunk.js.map",
-    "index.html": "/%7BReactfolio%7D/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/%7BReactfolio%7D/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.edbd5a26.chunk.css.map": "/%7BReactfolio%7D/static/css/main.edbd5a26.chunk.css.map",
-    "static/js/2.9d110713.chunk.js.LICENSE.txt": "/%7BReactfolio%7D/static/js/2.9d110713.chunk.js.LICENSE.txt"
+    "main.css": "/Reactfolio/static/css/main.edbd5a26.chunk.css",
+    "main.js": "/Reactfolio/static/js/main.2132f20c.chunk.js",
+    "main.js.map": "/Reactfolio/static/js/main.2132f20c.chunk.js.map",
+    "runtime-main.js": "/Reactfolio/static/js/runtime-main.150f199d.js",
+    "runtime-main.js.map": "/Reactfolio/static/js/runtime-main.150f199d.js.map",
+    "static/css/2.150d169a.chunk.css": "/Reactfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.c1b085b6.chunk.js": "/Reactfolio/static/js/2.c1b085b6.chunk.js",
+    "static/js/2.c1b085b6.chunk.js.map": "/Reactfolio/static/js/2.c1b085b6.chunk.js.map",
+    "static/js/3.2553f189.chunk.js": "/Reactfolio/static/js/3.2553f189.chunk.js",
+    "static/js/3.2553f189.chunk.js.map": "/Reactfolio/static/js/3.2553f189.chunk.js.map",
+    "index.html": "/Reactfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Reactfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.edbd5a26.chunk.css.map": "/Reactfolio/static/css/main.edbd5a26.chunk.css.map",
+    "static/js/2.c1b085b6.chunk.js.LICENSE.txt": "/Reactfolio/static/js/2.c1b085b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4370781c.js",
+    "static/js/runtime-main.150f199d.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.9d110713.chunk.js",
+    "static/js/2.c1b085b6.chunk.js",
     "static/css/main.edbd5a26.chunk.css",
     "static/js/main.2132f20c.chunk.js"
   ]
